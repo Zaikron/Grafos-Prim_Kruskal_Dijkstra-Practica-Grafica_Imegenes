@@ -1,0 +1,28 @@
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad1_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad1_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad1_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csprojResolveAssemblyReference.cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad1_SemAlgoritmia\obj\Debug\Actividad1_SemAlgoritmia.MainForm.resources
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad1_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csproj.GenerateResource.Cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad1_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad1_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad2_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad2_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csprojResolveAssemblyReference.cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad2_SemAlgoritmia\obj\Debug\Actividad1_SemAlgoritmia.MainForm.resources
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csproj.GenerateResource.Cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad1_SemAlgoritmia - copia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad2_SemAlgoritmia\Actividad2_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad2_SemAlgoritmia\Actividad2_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad2_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csprojResolveAssemblyReference.cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad2_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csproj.GenerateResource.Cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad2_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad2_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad2_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.MainForm.resources
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad3_SemAlgoritmia\Actividad2_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad3_SemAlgoritmia\Actividad2_SemAlgoritmia\bin\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad3_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csprojResolveAssemblyReference.cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad3_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.csproj.GenerateResource.Cache
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad3_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.exe
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad3_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad2_SemAlgoritmia.pdb
+C:\Users\AnthonySandoval\Documents\SharpDevelop Projects\Actividad3_SemAlgoritmia\Actividad2_SemAlgoritmia\obj\Debug\Actividad3_SemAlgoritmia.MainForm.resources
